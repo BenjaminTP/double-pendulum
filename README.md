@@ -9,7 +9,7 @@ The time for the second pendulum to flip represented as a colour on a 2D grid wi
 ### Tiny Variances
 For a variance of one billionth of a radian in the starting position, we can plot the x-position of the second pendulum over time. Doing that for each variation gives us a 3D plot that we can look at.
 
-<img src="200_variations.png" width=75%>
+<img src="200_variations.png">
 
 As you can see from the plot, each pendulum stays relatively in sync until 40-45 seconds, where there is a slight variation. After 60 seconds, there is nothing but noise. 
 
