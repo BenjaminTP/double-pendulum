@@ -3,12 +3,12 @@ I was interested in seeing the chaotic behaviour of a double pendulum system, so
 
 ### Time-to-Flip Fractal
 The time for the second pendulum to flip represented as a colour on a 2D grid with axes of the starting angles of each pendulum. This is produces a very well known fractal that shows the chaotic behaviour of the system. Even a tiny change results in completely different colours and the fractal forming.
-![Fractal image](flip_time_fractal.png){width=300, height=300}
+![Fractal image](flip_fractal_higher_quality.png)
 
 ### Tiny Variances
 For a variance of one billionth of a radian in the starting position, we can plot the x-position of the second pendulum over time. Doing that for each variation gives us a 3D plot that we can look at.
 
-![200 Variations Plot](200_variations.png){width=300, height=300}
+![200 Variations Plot](200_variations.png)
 
 As you can see from the plot, each pendulum stays relatively in sync until 40-45 seconds, where there is a slight variation. After 60 seconds, there is nothing but noise. 
 
