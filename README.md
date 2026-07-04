@@ -12,7 +12,7 @@ For a variance of one billionth of a radian in the starting position, we can plo
 
 As you can see from the plot, each pendulum stays relatively in sync until 40-45 seconds, where there is a slight variation. After 60 seconds, there is nothing but noise. 
 
-<u>To put into perspective how small of a variation this is, if you point a laser on a wall 1000km away and another laser one billionth of a radian to either side, the distance between the lasers would be 1mm.</u>
+<ins>To put into perspective how small of a variation this is, if you point a laser on a wall 1000km away and another laser one billionth of a radian to either side, the distance between the lasers would be 1mm.</ins>
 
 ---
 
