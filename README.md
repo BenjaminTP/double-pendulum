@@ -1,4 +1,4 @@
-# Double Equations of Motion Derivation
+# Double Pendulum Equations of Motion Derivation
 
 Let $m_1,\ m_2,\ l_1,\ l_2,\ \theta_1,\ \theta_2$ be the masses of 2 point masses, lengths of 2 pendulums in series, and the angles between each pendulum from the vertical. 
 
