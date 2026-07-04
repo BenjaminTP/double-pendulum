@@ -5,12 +5,12 @@ Let $m_1,\ m_2,\ l_1,\ l_2,\ \theta_1,\ \theta_2$ be the masses of 2 point masse
 ## Deriving Position and Velocity
 
 We can derive the positions of each mass in a cartesian coordinate system:
-
+```math
 $$
 x_1 = l_1 \sin(\theta_1),\ y_1=-l_1 \cos(\theta_1)\\
 x_2=l_1 \sin(\theta_1)+l_2 \sin(\theta_2),\ y_2 =-l_1 \cos(\theta_1) - l_2 \cos(\theta_2)
 $$
-
+```
 Differentiating each position with respect to time allows us to find the velocity in each direction as such:
 
 $$
