@@ -1,5 +1,5 @@
 # Double Pendulum Chaos Representations
-I was interested in seeing the chaotic behaviour of a double pendulum system, so I derived the equations of motion from the Euler-Lagrange equations, and numerically solved the ODEs. There were two things I wanted to see: the time-to-flip fractal, and how much of a difference a tiny variance will make for a trajectory over time.
+I was interested in seeing the chaotic behaviour of a double pendulum system, so I derived the equations of motion from the Euler-Lagrange equation, and numerically solved the ODEs with python. There were two things I wanted to see: the time-to-flip fractal, and how much of a difference a tiny variance will make for a trajectory over time.
 
 ### Time-to-Flip Fractal
 The time for the second pendulum to flip represented as a colour on a 2D grid with axes of the starting angles of each pendulum. This is produces a very well known fractal that shows the chaotic behaviour of the system. Even a tiny change results in completely different colours and the fractal forming.
