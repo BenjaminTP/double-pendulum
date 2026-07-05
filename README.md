@@ -4,12 +4,12 @@ I was interested in seeing the chaotic behaviour of a double pendulum system, so
 ### Time-to-Flip Fractal
 This plot shows the time for the second pendulum to flip, represented as a colour, on a 2D grid with axes of the starting angles of each pendulum. This produces a very well known fractal that shows the chaotic behaviour of the system. Even a tiny change in initial conditions results in completely different colours and the fractal forming.
 
-<img src="flip_fractal_higher_quality.png" width=75% style="display: block; margin-left: auto; margin-right: auto;">
+<img src="flip_fractal_higher_quality.png" width=75%>
 
 ### Tiny Variances
 For a variance of one billionth of a radian in the starting position, we can plot the x-position of the second pendulum over time. Doing that for each variation gives us a 3D plot that we can look at.
 
-<img src="200_variations.png" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="200_variations.png">
 
 As you can see from the plot, each pendulum stays relatively in sync until 40-45 seconds, where there is a slight variation. After 60 seconds, there is nothing but noise. 
 
@@ -21,7 +21,7 @@ As you can see from the plot, each pendulum stays relatively in sync until 40-45
 
 Let $`m_1,\ m_2,\ l_1,\ l_2,\ \theta_1,\ \theta_2`$ be the masses of 2 point masses, lengths of 2 pendulums in series, and the angles between each pendulum from the vertical.
 
-<img src="https://rcoulon.perso.math.cnrs.fr/improject/pendulum/img/schema_huf820ddb0f963e8302fe4bb2103d1c2ac_52142_2000x2000_fit_q90_lanczos.jpg" width=50% style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://rcoulon.perso.math.cnrs.fr/improject/pendulum/img/schema_huf820ddb0f963e8302fe4bb2103d1c2ac_52142_2000x2000_fit_q90_lanczos.jpg" width=50%>
 
 ## Deriving Position and Velocity
 
