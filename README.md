@@ -11,7 +11,9 @@ This plot shows the time for the second pendulum to flip, represented as a colou
 ### Tiny Variances
 For a variance of one billionth of a radian in the starting position, we can plot the x-position of the second pendulum over time. Doing that for each variation gives us a 3D plot that we can look at.
 
-<img src="200_variations.png">
+<p align="center">
+    <img src="200_variations.png">
+</p>
 
 As you can see from the plot, each pendulum stays relatively in sync until 40-45 seconds, where there is a slight variation. After 60 seconds, there is nothing but noise. 
 
@@ -22,9 +24,9 @@ As you can see from the plot, each pendulum stays relatively in sync until 40-45
 # Equations of Motion Derivation
 
 Let $`m_1,\ m_2,\ l_1,\ l_2,\ \theta_1,\ \theta_2`$ be the masses of 2 point masses, lengths of 2 pendulums in series, and the angles between each pendulum from the vertical.
-
-<img src="https://rcoulon.perso.math.cnrs.fr/improject/pendulum/img/schema_huf820ddb0f963e8302fe4bb2103d1c2ac_52142_2000x2000_fit_q90_lanczos.jpg" width=50%>
-
+<p align="center">
+    <img src="https://rcoulon.perso.math.cnrs.fr/improject/pendulum/img/schema_huf820ddb0f963e8302fe4bb2103d1c2ac_52142_2000x2000_fit_q90_lanczos.jpg" width=50%>
+</p>
 ## Deriving Position and Velocity
 
 We can derive the positions of each mass in a cartesian coordinate system:
