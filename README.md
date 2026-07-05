@@ -4,7 +4,9 @@ I was interested in seeing the chaotic behaviour of a double pendulum system, so
 ### Time-to-Flip Fractal
 This plot shows the time for the second pendulum to flip, represented as a colour, on a 2D grid with axes of the starting angles of each pendulum. This produces a very well known fractal that shows the chaotic behaviour of the system. Even a tiny change in initial conditions results in completely different colours and the fractal forming.
 
-<img src="flip_fractal_higher_quality.png" width=75%>
+<p align="center">
+    <img src="flip_fractal_higher_quality.png" width=75%>
+</p>
 
 ### Tiny Variances
 For a variance of one billionth of a radian in the starting position, we can plot the x-position of the second pendulum over time. Doing that for each variation gives us a 3D plot that we can look at.
